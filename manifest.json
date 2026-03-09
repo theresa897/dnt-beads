@@ -1,0 +1,21 @@
+{
+  "name": "DNT Beads Assistant",
+  "short_name": "DNT Beads",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8e44ad",
+  "description": "Calculateur rapide pour les ventes de perles sur Marketplace",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/8e44ad/ffffff?text=DNT",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/8e44ad/ffffff?text=DNT",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
